@@ -173,11 +173,6 @@ Your JSON files should contain translation pairs with consistent keys:
 3. 📝 Create datasets with Sanskrit-Bengali pairs
 4. 🚀 Run the complete pipeline
 
-### 🇮🇳 Hindi → Tamil Translation
-1. 🔧 Set `SOURCE_KEY = "hindi"`, `TARGET_KEY = "tamil"`
-2. 🌐 Set `SOURCE_LANGUAGE = "Hindi"`, `TARGET_LANGUAGE = "Tamil"`
-3. 📝 Create datasets with Hindi-Tamil pairs
-4. 🚀 Run the complete pipeline
 
 ## 💡 Pro Tips & Notes 📝
 
